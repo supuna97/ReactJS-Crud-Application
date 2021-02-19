@@ -1,0 +1,18 @@
+.main.container {
+    margin-top: 60px;
+}
+
+.submit-button {
+    margin-top: 24px !important;
+    float: right;
+}
+.data {
+    margin-top: 15px;
+}
+thead tr th {
+    background-color: white !important;
+}
+
+.ui.inverted.dimmer {
+    background-color: rgba(255,255,255,0) !important;
+}
